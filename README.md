@@ -1,1 +1,2 @@
-# Django_Tutorial 1st week
+# Django_Tutorial 
+
